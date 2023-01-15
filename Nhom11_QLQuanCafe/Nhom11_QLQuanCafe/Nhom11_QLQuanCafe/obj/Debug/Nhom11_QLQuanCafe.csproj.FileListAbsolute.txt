@@ -1,0 +1,152 @@
+E:\LeThiNgocAnh_2001200025\NMCNPM\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\bin\Debug\Nhom11_QLQuanCafe.exe.config
+E:\LeThiNgocAnh_2001200025\NMCNPM\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\bin\Debug\Nhom11_QLQuanCafe.exe
+E:\LeThiNgocAnh_2001200025\NMCNPM\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\bin\Debug\Nhom11_QLQuanCafe.pdb
+E:\LeThiNgocAnh_2001200025\NMCNPM\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.csprojResolveAssemblyReference.cache
+E:\LeThiNgocAnh_2001200025\NMCNPM\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Form1.resources
+E:\LeThiNgocAnh_2001200025\NMCNPM\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Properties.Resources.resources
+E:\LeThiNgocAnh_2001200025\NMCNPM\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.csproj.GenerateResource.Cache
+E:\LeThiNgocAnh_2001200025\NMCNPM\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.exe
+E:\LeThiNgocAnh_2001200025\NMCNPM\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.pdb
+E:\LeThiNgocAnh_2001200025\NMCNPM\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.TrangChu.resources
+D:\BÀI TẬP\BÀI TIỂU LUẬN\CNPM\Đồ án\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\bin\Debug\Nhom11_QLQuanCafe.exe.config
+D:\BÀI TẬP\BÀI TIỂU LUẬN\CNPM\Đồ án\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.exe
+D:\BÀI TẬP\BÀI TIỂU LUẬN\CNPM\Đồ án\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.pdb
+D:\BÀI TẬP\BÀI TIỂU LUẬN\CNPM\Đồ án\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\bin\Debug\Nhom11_QLQuanCafe.exe
+D:\BÀI TẬP\BÀI TIỂU LUẬN\CNPM\Đồ án\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\bin\Debug\Nhom11_QLQuanCafe.pdb
+D:\BÀI TẬP\BÀI TIỂU LUẬN\CNPM\Đồ án\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.csprojResolveAssemblyReference.cache
+D:\BÀI TẬP\BÀI TIỂU LUẬN\CNPM\Đồ án\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_DangNhap.resources
+D:\BÀI TẬP\BÀI TIỂU LUẬN\CNPM\Đồ án\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_SanPhamTrangChu.resources
+D:\BÀI TẬP\BÀI TIỂU LUẬN\CNPM\Đồ án\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Properties.Resources.resources
+D:\BÀI TẬP\BÀI TIỂU LUẬN\CNPM\Đồ án\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_TrangChu.resources
+D:\BÀI TẬP\BÀI TIỂU LUẬN\CNPM\Đồ án\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.csproj.GenerateResource.Cache
+D:\BÀI TẬP\BÀI TIỂU LUẬN\CNPM\Đồ án\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_ManHinhGioiThieu.resources
+D:\BÀI TẬP\BÀI TIỂU LUẬN\CNPM\Đồ án\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_DanhMucLoai.resources
+D:\BÀI TẬP\BÀI TIỂU LUẬN\CNPM\Đồ án\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_KhuyenMai.resources
+D:\BÀI TẬP\BÀI TIỂU LUẬN\CNPM\Đồ án\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_KhuyenMai_SanPham.resources
+D:\BÀI TẬP\BÀI TIỂU LUẬN\CNPM\Đồ án\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_DanhMucNhaCC.resources
+D:\BÀI TẬP\BÀI TIỂU LUẬN\CNPM\Đồ án\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_HoaDonNhap.resources
+D:\BÀI TẬP\BÀI TIỂU LUẬN\CNPM\Đồ án\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_DanhMucNguyenLieu.resources
+D:\BÀI TẬP\BÀI TIỂU LUẬN\CNPM\Đồ án\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_DanhMucSanPham.resources
+D:\BÀI TẬP\BÀI TIỂU LUẬN\CNPM\Đồ án\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_HoaDon.resources
+D:\BÀI TẬP\BÀI TIỂU LUẬN\CNPM\Đồ án\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_NhanVien.resources
+D:\BÀI TẬP\BÀI TIỂU LUẬN\CNPM\Đồ án\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_TaoHoaDon.resources
+D:\BÀI TẬP\BÀI TIỂU LUẬN\CNPM\Đồ án\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_TaoHoaDonNhap.resources
+D:\BÀI TẬP\BÀI TIỂU LUẬN\CNPM\Đồ án\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_ThongKe.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\CaiDat\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\bin\Debug\Nhom11_QLQuanCafe.exe.config
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\CaiDat\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.exe
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\CaiDat\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.pdb
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\CaiDat\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\bin\Debug\Nhom11_QLQuanCafe.exe
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\CaiDat\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\bin\Debug\Nhom11_QLQuanCafe.pdb
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\CaiDat\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\CaiDat\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_DangNhap.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\CaiDat\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_DanhMucLoai.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\CaiDat\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_DanhMucNguyenLieu.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\CaiDat\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_DanhMucNhaCC.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\CaiDat\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_DanhMucSanPham.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\CaiDat\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_HoaDon.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\CaiDat\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_HoaDonNhap.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\CaiDat\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_KhuyenMai.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\CaiDat\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_KhuyenMai_SanPham.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\CaiDat\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_ManHinhGioiThieu.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\CaiDat\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_NhanVien.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\CaiDat\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_SanPhamTrangChu.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\CaiDat\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_TaoHoaDon.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\CaiDat\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_TaoHoaDonNhap.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\CaiDat\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_ThongKe.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\CaiDat\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Properties.Resources.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\CaiDat\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_TrangChu.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\CaiDat\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.csproj.GenerateResource.Cache
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\CaiDat\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.GUI.Frm_ThemNguyenLieu.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\CaiDat\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.GUI.Frm_ThemCTHDNhap.resources
+C:\Users\admin\Desktop\qp\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\bin\Debug\Nhom11_QLQuanCafe.exe.config
+C:\Users\admin\Desktop\qp\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.exe
+C:\Users\admin\Desktop\qp\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.pdb
+C:\Users\admin\Desktop\qp\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\bin\Debug\Nhom11_QLQuanCafe.exe
+C:\Users\admin\Desktop\qp\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\bin\Debug\Nhom11_QLQuanCafe.pdb
+C:\Users\admin\Desktop\qp\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.GUI.Frm_Bill.resources
+C:\Users\admin\Desktop\qp\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_DangNhap.resources
+C:\Users\admin\Desktop\qp\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_DanhMucNguyenLieu.resources
+C:\Users\admin\Desktop\qp\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_HoaDon.resources
+C:\Users\admin\Desktop\qp\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_HoaDonNhap.resources
+C:\Users\admin\Desktop\qp\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_KhuyenMai.resources
+C:\Users\admin\Desktop\qp\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_KhuyenMai_SanPham.resources
+C:\Users\admin\Desktop\qp\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.frm_Loai.resources
+C:\Users\admin\Desktop\qp\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.frm_NhaCC.resources
+C:\Users\admin\Desktop\qp\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_NhanVien.resources
+C:\Users\admin\Desktop\qp\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.frm_SanPham.resources
+C:\Users\admin\Desktop\qp\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_TaoHoaDon.resources
+C:\Users\admin\Desktop\qp\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_TaoHoaDonNhap.resources
+C:\Users\admin\Desktop\qp\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.GUI.Frm_ThemCTHDNhap.resources
+C:\Users\admin\Desktop\qp\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.GUI.Frm_ThemNguyenLieu.resources
+C:\Users\admin\Desktop\qp\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_ThongKe.resources
+C:\Users\admin\Desktop\qp\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_TrangGioiThieu.resources
+C:\Users\admin\Desktop\qp\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Properties.Resources.resources
+C:\Users\admin\Desktop\qp\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\qp\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_SanPhamTrangChu.resources
+C:\Users\admin\Desktop\qp\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_TrangChu.resources
+C:\Users\admin\Desktop\qp\CaiDat\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\bin\Debug\Nhom11_QLQuanCafe.exe.config
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.exe
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.pdb
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\bin\Debug\Nhom11_QLQuanCafe.exe
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\bin\Debug\Nhom11_QLQuanCafe.pdb
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.GUI.Frm_Bill.resources
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_DangNhap.resources
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_DanhMucNguyenLieu.resources
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_HoaDon.resources
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_HoaDonNhap.resources
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_KhuyenMai.resources
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_KhuyenMai_SanPham.resources
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.frm_Loai.resources
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.frm_NhaCC.resources
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_NhanVien.resources
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.frm_SanPham.resources
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_SanPhamTrangChu.resources
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_TaoHoaDon.resources
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_TaoHoaDonNhap.resources
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.GUI.Frm_ThemCTHDNhap.resources
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.GUI.Frm_ThemNguyenLieu.resources
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_ThongKe.resources
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_TrangChu.resources
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_TrangGioiThieu.resources
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Properties.Resources.resources
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.csproj.GenerateResource.Cache
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.GUI.Frm_InHoaDon.resources
+C:\Users\dohue\OneDrive\Desktop\CNPM test\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.GUI.Frm_InHDNhap.resources
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\bin\Debug\Nhom11_QLQuanCafe.exe.config
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.exe
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.pdb
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\bin\Debug\Nhom11_QLQuanCafe.exe
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\bin\Debug\Nhom11_QLQuanCafe.pdb
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.GUI.Frm_Bill.resources
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_DangNhap.resources
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_DanhMucNguyenLieu.resources
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_HoaDon.resources
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_HoaDonNhap.resources
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.GUI.Frm_InHDNhap.resources
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.GUI.Frm_InHoaDon.resources
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_KhuyenMai.resources
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_KhuyenMai_SanPham.resources
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.frm_Loai.resources
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.frm_NhaCC.resources
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_NhanVien.resources
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.frm_SanPham.resources
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_SanPhamTrangChu.resources
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_TaoHoaDon.resources
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_TaoHoaDonNhap.resources
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.GUI.Frm_ThemCTHDNhap.resources
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.GUI.Frm_ThemNguyenLieu.resources
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_ThongKe.resources
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_TrangChu.resources
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Frm_TrangGioiThieu.resources
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.Properties.Resources.resources
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\bin\Debug\Nhom11_QLQuanCafe.exe.manifest
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\bin\Debug\Nhom11_QLQuanCafe.application
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.exe.manifest
+C:\Users\admin\Desktop\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.application
+E:\Nam 3\SE\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\bin\Debug\Nhom11_QLQuanCafe.exe.config
+E:\Nam 3\SE\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.exe
+E:\Nam 3\SE\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\Nhom11_QLQuanCafe\obj\Debug\Nhom11_QLQuanCafe.pdb
